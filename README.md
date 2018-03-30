@@ -1,4 +1,5 @@
 # Internationalization-and-Localization-Guide
+# 关于国际化和本地化
 
  Localization is the process of translating your app into multiple languages. But before you can localize your app, you internationalize it. Internationalization is the process of making your app able to adapt to different languages, regions, and cultures. Because a single language can be used in multiple parts of the world, your app should adapt to the regional and cultural conventions of where a person resides. An internationalized app appears as if it is a native app in all the languages and regions it supports.
 
@@ -15,5 +16,6 @@ You can find the whole translation there: http://idup.club/doku.php?id=internati
 If you are intersted in swift and not good at English, you can find more there: http://idup.club/swift 
 and a document: http://idup.club/library
 
-如果你对swift感兴趣但英语不好，这里有一份入门的中文资料：http://idup.club/swift
+如果你对swift感兴趣但英语不好，这里有一份入门的中文资料：http://idup.club/swift 
+
 以及一份中文文档：http://idup.club/library
