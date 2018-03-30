@@ -8,4 +8,12 @@ The App Store is available in over 150 different countries, and internationalizi
 
 苹果的应用商店在超过150个不同的国家都是可使用的，所以国际化你的应用是占领这个全球市场的第一步。使用iTunes Connect服务，你可以具体说明你的应用是否在所有的地区或特殊的地区可用。然后你可以为你想支持的每个目标市场定做你的应用。在其他国家的用户想在他们能理解语言并在熟悉的日期、时间和数字格式的环境下使用你的应用。
 
+You can find the whole translation there: http://idup.club/doku.php?id=internationalization_and_localization_guide
 
+你可以在这里找到这篇文档的翻译：http://idup.club/doku.php?id=internationalization_and_localization_guide
+
+If you are intersted in swift and not good at English, you can find more there: http://idup.club/swift 
+and a document: http://idup.club/library
+
+如果你对swift感兴趣但英语不好，这里有一份入门的中文资料：http://idup.club/swift
+以及一份中文文档：http://idup.club/library
